@@ -1,0 +1,2 @@
+C:\Users\Moi\Documents\Unreal Projects\MyProject\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h
+C:\Users\Moi\Documents\Unreal Projects\MyProject\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src\RdTextBuffer.h
